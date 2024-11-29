@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b9e47654.css",
+    "main.js": "/static/js/main.8473e3a1.js",
+    "static/media/Content.jpg": "/static/media/Content.996e23ab2f58126d4c6a.jpg",
+    "static/media/3_2 screen mockup.png": "/static/media/3_2 screen mockup.50ce17d2ffa1400f11e9.png",
+    "static/media/Image.png": "/static/media/Image.ab7156941c2e55ca4692.png",
+    "static/media/Image (1).png": "/static/media/Image (1).75723fd7e9548d49c893.png",
+    "static/media/iPhone 12 Pro mockup.png": "/static/media/iPhone 12 Pro mockup.5012aef81844524ed679.png",
+    "static/media/Image (2).png": "/static/media/Image (2).cfc8afa7a4270d462db5.png",
+    "static/media/Avatar group.png": "/static/media/Avatar group.bd55e8f5a53016f0b8b3.png",
+    "index.html": "/index.html",
+    "main.b9e47654.css.map": "/static/css/main.b9e47654.css.map",
+    "main.8473e3a1.js.map": "/static/js/main.8473e3a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9e47654.css",
+    "static/js/main.8473e3a1.js"
+  ]
+}
